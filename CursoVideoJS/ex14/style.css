@@ -4,23 +4,38 @@ body {
 }
 
 header {
-    margin: 100px auto;
+    margin: 50px auto;
     color: white;
     text-align: center;
 }
 
 main {
-    margin: 100px auto;
-    background-color: white;
+    margin: 50px auto;
+    background-color: rgba(255, 255, 255, 0);
     border-radius: 10px;
     padding: 15px;
-    width: 50vw;
+    width: 30vw;
     /* margin: auto; */
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.308);
+    text-align: center;
+    color: white;
+}
+
+#msg {
+    display: inline;
+}
+
+#lblHora {
+    margin: 10px 0;
+}
+
+#inputHora {
+    margin: 10px 0;
+    width: 60px;
 }
 
 footer {
-    margin: 100px auto;
+    margin: 50px auto;
     color: white;
     text-align: center;
     font-style: italic;
