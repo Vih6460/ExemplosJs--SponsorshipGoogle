@@ -21,9 +21,13 @@ main {
     text-align: center;
 }
 
+#txtAno {
+    width: 70px;
+}
+
 
 footer {
-    margin: 50px auto;
+    margin: 40px auto 0px auto;
     color: white;
     text-shadow: 2px 2px 2px rgb(0, 0, 0);
     text-align: center;
